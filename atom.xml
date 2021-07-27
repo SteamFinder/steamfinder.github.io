@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://steamfinder.github.io</id>
     <title>笔记</title>
-    <updated>2021-07-27T02:21:44.964Z</updated>
+    <updated>2021-07-27T02:37:51.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://steamfinder.github.io"/>
     <link rel="self" href="https://steamfinder.github.io/atom.xml"/>
@@ -10,192 +10,54 @@
     <icon>https://steamfinder.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 笔记</rights>
     <entry>
-        <title type="html"><![CDATA[Mr.Gの二次元新番放送屋🎥-入群须知]]></title>
-        <id>https://steamfinder.github.io/post/group-q&amp;a-links/</id>
-        <link href="https://steamfinder.github.io/post/group-q&amp;a-links/">
+        <title type="html"><![CDATA[Pandownload作者被抓，资本割菜何时了，网友白嫖几时休？]]></title>
+        <id>https://steamfinder.github.io/post/Pandownload_VS_Baidu/</id>
+        <link href="https://steamfinder.github.io/post/Pandownload_VS_Baidu/">
         </link>
-        <updated>2020-05-29T13:30:47.000Z</updated>
-        <content type="html"><![CDATA[<p>制作:SteamFinder(QQ:2328352790) 技术问题找我</p>
-<pre><code>迁移到新网站http://123.57.177.193/
-</code></pre>
-<p><a href="http://123.57.177.193/" target="_blank">新网站</a><br>
-Mr.Gの二次元新番放送屋 群号586144883</p>
-<blockquote>
-<p>不得转载</p>
-</blockquote>
-<h1 id="目录">目录</h1>
-<hr>
-<ul>
-<li>
-<h6 id="a-href目录目录a"><a href="#目录">目录</a></h6>
-</li>
-<li>
-<h6 id="a-hrefqa疑难解答a"><a href="#qa">疑难解答</a></h6>
-</li>
-<li>
-<h6 id="a-href本群资源库本群资源库a"><a href="#本群资源库">本群资源库</a></h6>
-</li>
-<li>
-<h6 id="a-href字幕库字幕库a"><a href="#字幕库">字幕库</a></h6>
-</li>
-<li>
-<h6 id="a-href天气之子资源天气之子a"><a href="#天气之子资源">天气之子</a></h6>
-</li>
-</ul>
-<blockquote>
-<p><a href="#资源下载">资源下载</a> <a href="#字幕详情">字幕详情</a></p>
+        <updated>2020-04-18T13:24:53.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>净网战报:宝应网安破获一起黑客攻击计算机信息系统案件<br>
+今年2月,受害人刘某报案称其下载的Pandownload软件会在未授权的情况下,将自己百度网盘的数据共享出去,导致隐私照片和文件泄露。宝应县局网安民警立即开展案情分析研判,研习法律条文,解剖软件结构。面对满屏的数据,一盯就是几个小时。经过梳理,警方发现该软件可以以非会员权限突破百度网  盘官方设定,实现高速下载,系侵入、非法控制计算机信息系统的程序工具,并且该软件的使用者达到数万人,致使北京百度网讯科技有限公司(“百度公司”)损失高达上千万元。</p>
 </blockquote>
 <ul>
-<li>
-<h6 id="a-hrefhello-world资源hello-worlda"><a href="#Hello World资源">Hello World</a></h6>
-</li>
-<li>
-<h6 id="a-href你的名字资源你的名字a"><a href="#你的名字资源">你的名字</a></h6>
-</li>
-<li>
-<h6 id="a-href空之境界资源空之境界a"><a href="#空之境界资源">空之境界</a></h6>
-</li>
-<li>
-<h6 id="a-href言叶之庭资源言叶之庭a"><a href="#言叶之庭资源">言叶之庭</a></h6>
-</li>
-<li>
-<h6 id="a-href紫罗兰永恒花园资源紫罗兰永恒花园a"><a href="#紫罗兰永恒花园资源">紫罗兰永恒花园</a></h6>
-</li>
+<li>损失高达上千万元？这是在搞笑吗？</li>
+<li>Pandownload公开“破解”百度下载系统，罪有应得，你们讽刺百度公司还有没有王法？</li>
 </ul>
-<h1 id="qa">Q&amp;A</h1>
-<hr>
+<p>百度网盘分离VIP和SVIP，通过坑害免费用户和VIP用户的带宽以及流量来服务SVIP客户，对免费用户进行多种限制。虽然法律上没规定这是违法，但这样公然割韭菜真的道德吗？只要你用我的产品，我就能割韭菜，我就能在法律的框架内为所欲为，甚至偶尔在”作死的边缘“试探~，反正算不上违法，顶多被罚钱，而且罚钱纪律很小，割韭菜好快乐呢。这种公司说是没良心，不要脸很正常。他把同为合法用户的免费用户不当用户看，只认为他们是一茬茬的韭菜，那100kb/s都上不去的下载速率，这也太过分了吧！</p>
+<p>而白嫖百度网盘真的就那么理直气壮吗？Pandownload软件侵犯到了百度公司的合法利益是无争的事实，如果合法的利益都不能被保护，那法律有何用？如果你辛辛苦苦花钱出力写的一篇付费教程被别人盗走了而且那个人居然说：“教程完全免费，喜欢可以打赏，打赏是自愿的哦”，他算不算侵权呢，他是做好事吗？</p>
 <blockquote>
-<p><em><strong>注意事项是什么？</strong></em></p>
+<p>侵犯著作权罪<br>
+刑法第二百一十七条 以营利为目的，有百下列侵犯著作权情形之一，违法所得数额较大或者有其度他严重情节的，处三年以下有期徒刑或者拘役，并处或者单处罚金；违法所得数额巨大或者有其他特别严重情节的，处三年以上七年以下有期徒刑，并处罚金：<br>
+（一）未经著作权人许可，复制发行其文字作品、音乐、电影回、电视、录像作品、计算机软件及其他作品的；<br>
+（二）出版他人享有专有出版权的图书的；<br>
+（三）未经录音录像制答作者许可，复制发行其制作的录音录像的；<br>
+（四）制作、出售假冒他人署名的美术作品的。<br>
+不仅有《刑法》对此类行为有明确定性和处罚，《计算机信息系统安全保护条例》等也有相关条例可查。<br>
+“白嫖”一词近年来很火爆，白嫖他不香吗？可是白嫖一词本身就偏贬义，而现在Pandownload作者的违法行为让其被捕后，居然有人称他为“盘神”？违法行为居然被称为“正义”，白嫖居然理直气壮，这简直是粪坑里跳高——过分。</p>
 </blockquote>
-<p>不要白嫖完就跑，交流一下，本群资源不得贩卖转售，仅供交流分享</p>
-<blockquote>
-<p><em><strong>天气之子高质量资源有啥？</strong></em></p>
+<p>说到底，这还是道德与法律的冲突。道德上：百度很不是人，就是割韭菜，我们白嫖就是打击资本家，法律上：百度的行为不构成违法，是正常的行为，Pandownload违法。这件事没有谁对谁错，其实是都有正确的一方面和不正确的一方面。如果百度云停止割菜，适当体谅免费用户，白嫖网盘的免费用户适当充值支持，那么最后就是良性循环。——不可能的</p>
+<p>百度，从莆田系到强制推广，侵犯用户隐私，再到偷跑流量，做了一个高级设置里的高级设置隐藏，说到底就是无良公司。<br>
+网友，从盗版到白嫖，从偷偷摸摸到理直气壮，形成了一种对创作和合法权益极为不好的风气。</p>
+<p>资本割菜何时了，网友白嫖几时休？也许只有都回归的正常的轨道，形成良好的风气，才能解决这个死局吧。</p>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[网易代理续约与Hypixel中国停服]]></title>
+        <id>https://steamfinder.github.io/post/NeteaseAndHypixelShutDown/</id>
+        <link href="https://steamfinder.github.io/post/NeteaseAndHypixelShutDown/">
+        </link>
+        <updated>2020-04-15T03:28:05.000Z</updated>
+        <content type="html"><![CDATA[<blockquote>
+<p>很遗憾的告诉大家，由于我们与Hypixel团队的合作即将到期，按照约定将于2020年6月30日10点停止运营Hypixel中国版服务器。届时将关闭游戏服务器，玩家无法登陆游戏。<br>
+<em>https://www.bilibili.com/video/BV1NZ4y14789</em>  <strong>论Hypixel国服的关掉</strong>-籽岷</p>
 </blockquote>
-<p>见下文“天气之子资源列表”</p>
-<blockquote>
-<p><em><strong>4K颜色不对啊！</strong></em></p>
-</blockquote>
-<p>4K资源下载完成后用PotPlayer播放（自动颜色补偿加完美解码）</p>
-<blockquote>
-<p><em><strong>4K手机能看吗？</strong></em></p>
-</blockquote>
-<p>能，不推荐。如果设备不行，建议不要下载4K版</p>
-<blockquote>
-<p><em><strong>群公告复制不了？</strong></em></p>
-</blockquote>
-<p>这个页面可以复制</p>
-<blockquote>
-<p><em><strong>用什么软件下载？</strong></em></p>
-</blockquote>
-<p>BT建议用比特彗星，qBT，FDM，迅雷由于其卑鄙的吸血行为被多个服务器屏蔽，速度极慢</p>
-<p>BT下载指引 <a href="https://trackerslist.com/#/zh">https://trackerslist.com/#/zh</a></p>
-<p><strong>看不懂？</strong></p>
-<p>比特彗星便携版(已配置 Tracker) <a href="https://xiu.lanzous.com/b073c7g4f">https://xiu.lanzous.com/b073c7g4f</a><br>
-qBT-EE便携版(已配置 Tracker) <a href="https://xiu.lanzous.com/b073dnr7g">https://xiu.lanzous.com/b073dnr7g</a></p>
-<p>选最新的版本</p>
-<h1 id="本群资源库">本群资源库</h1>
-<hr>
-<p><em><a href="https://docs.qq.com/doc/DT0FTYW9iVVdlVnpU">本群资源库（腾讯文档）</a></em></p>
-<h1 id="字幕库">字幕库</h1>
-<hr>
-<p><em><a href="http://www.zimuku.la/">字幕库</a></em></p>
-<h1 id="天气之子资源">天气之子资源</h1>
-<hr>
-<h2 id="资源下载">资源下载</h2>
-<blockquote>
-<p>百度网盘</p>
-</blockquote>
-<p>1080P-32GB和4K-48GB版 整合<br>
-<a href="https://pan.baidu.com/s/1og4H10Sf10DT5zM-X8sJ7g">https://pan.baidu.com/s/1og4H10Sf10DT5zM-X8sJ7g</a></p>
-<p>提取码：myys</p>
-<p><strong>包含以下版本</strong></p>
-<ul>
-<li>
-<p>1080P-32GB版</p>
-</li>
-<li>
-<p>4K-48GB版</p>
-</li>
-<li>
-<p>1080P-lolihouse压制版 5GB 体积小 适合手机观看</p>
-</li>
-<li>
-<p>4K-lolihouse压制版 7GB 体积小 适合手机观看</p>
-</li>
-</ul>
-<blockquote>
-<p>BT资源</p>
-</blockquote>
-<ul>
-<li>【不推荐】173GB[原盘-BDMV]天气之子原盘</li>
-</ul>
-<p>magnet:?xt=urn:btih:c8726ccf122b4f535ef5408a765e3fdb0fbbd6a0</p>
-<ul>
-<li>【推荐】32GB[1080P-Remux]天气之子1080P蓝光原盘简中日配</li>
-</ul>
-<p>magnet:?xt=urn:btih:a61d8410749087b55c9fd6daa7abaee42a811bf6</p>
-<ul>
-<li>【推荐】48GB[4k-Remux]天气之子4K蓝光原盘简中日配</li>
-</ul>
-<p>magnet:?xt=urn:btih:d2474bfed7e31f6dcab02b00987d8b5cc7006d68</p>
-<ul>
-<li>【推荐】12.8GB[ReinForce] 著名压制组，兼容体积与画质的极佳平衡，下载速度快</li>
-</ul>
-<p>magnet:?xt=urn:btih:2d53c1c28194df345dd41b1179bd28346f2c4342</p>
-<blockquote>
-<p>2.4GB，6GB版本</p>
-</blockquote>
-<p>请见群文件</p>
-<h2 id="字幕详情">字幕详情</h2>
-<blockquote>
-<p>所有影片均有字幕资源</p>
-</blockquote>
-<ul>
-<li>2.4GB 6GB版本</li>
-</ul>
-<p>内嵌</p>
-<ul>
-<li>32GB 48GB版本</li>
-</ul>
-<p>内挂</p>
-<ul>
-<li>12.8GB-Reinforce压制版 173GB原盘</li>
-</ul>
-<p>可外挂 网络上有匹配字幕</p>
-<h1 id="hello-world资源">Hello World资源</h1>
-<hr>
-<blockquote>
-<p>11GB原盘</p>
-</blockquote>
-<p>magnet:?xt=urn:btih:AE507FA93A7B26DAC68F3A10CC00AE3B2C9AEE32</p>
-<blockquote>
-<p>5GB自压制内嵌字幕</p>
-</blockquote>
-<p>链接：<a href="https://pan.baidu.com/s/1g7DgX7_DOZ8ru7fdcFoR9g">https://pan.baidu.com/s/1g7DgX7_DOZ8ru7fdcFoR9g</a><br>
-提取码：9eix</p>
-<h1 id="你的名字资源">你的名字资源</h1>
-<hr>
-<blockquote>
-<p>你的名字4k原盘</p>
-</blockquote>
-<p>链接：<a href="https://pan.baidu.com/s/16YFjW3QMG_DyFboWVDLSXg">https://pan.baidu.com/s/16YFjW3QMG_DyFboWVDLSXg</a></p>
-<p>提取码：ia33</p>
-<h1 id="空之境界资源">空之境界资源</h1>
-<hr>
-<p>magnet:?xt=urn:btih:eba6485dd08ee7c521f5828d9a82d90f1851b982&amp;dn=%5B%E7%A9%BA%E4%B9%8B%E5%A2%83%E7%95%8C%E5%89%A7%E5%9C%BA%E7%89%88+%E6%9C%AA%E6%9D%A5%E7%A6%8F%E9%9F%B3%5DThe.Garden.of.Sinners.Recalled.Out.Summer.2013.BluRay.720p.x264.AC3-CnSCG&amp;tr=http%3A%</p>
-<h1 id="言叶之庭资源">言叶之庭资源</h1>
-<hr>
-<blockquote>
-<p>言叶之庭原盘，自取（繁体）</p>
-</blockquote>
-<p>magnet:?xt=urn:btih:68f7aa4e0949eb1f5f8701063e21f39c89345a4f&amp;dn=%E8%A8%80%E5%8F%B6%E4%B9%8B%E5%BA%AD%5B%E5%8F%B0%E7%89%88%E7%B9%81%E4%BD%93%E4%B8%AD%E5%AD%97%5D2013+1080P+Blu-ray+AVC+LPCM+5.1-SweetDreamDay%40HDWinG&amp;tr=</p>
-<h1 id="紫罗兰永恒花园资源">紫罗兰永恒花园资源</h1>
-<hr>
-<blockquote>
-<p>紫罗兰永恒花园4k tv+剧场版</p>
-</blockquote>
-<p>链接：<a href="https://pan.baidu.com/s/1fIyHKQhWPeQzi1ywCBfJBQ">https://pan.baidu.com/s/1fIyHKQhWPeQzi1ywCBfJBQ</a></p>
-<p>提取码:vc33</p>
+<p>我的世界中国版从立项开始，就是国内我的世界圈的热点话题。<br>
+从一开始的“期待”，到如今的“国服去死”，凸显出网易运营的问题。</p>
+<p>网易的反作弊饱受诟病，水影，FLUX等传统mod作弊到VAPE等注入作弊，网易的反作弊几乎无效。并不是网易的技术能力问题，而是网易的重视程度问题。游戏的反作弊可以说直接左右玩家的游戏体验，但为什么网易想不到这点呢？网易将我的世界定义为“儿童益智”游戏，也就是说将这款游戏低龄化了。但我的世界受众贯穿全年龄段。PVP等玩法更是受到不少成年玩家欢迎，那自然就少不了作弊，卡漏洞等情况。网易的规划是将我的世界塑造成乐高搭积木类的益智游戏，因此只需要考虑如何做本地化，没有想到PVP等小游戏的受欢迎程度。</p>
+<p><strong>我的世界中国版最初的开发团队不是我的世界的忠实粉丝或老玩家</strong>无法理解到我的世界玩家喜爱的原因。</p>
+<p>不了解这款游戏，只是用自己以前开发别的游戏的经验来企图新瓶子装旧酒。我的世界爆火是因为玩法新颖，社区内容质量高，加之主播推动，既然玩法新颖，社区内容质量高，就不能用传统的网游发展模式来衡量。这也是我的世界中国版由众望所归到万人唾弃的原因。网易现在正在试图改变，那我们也只能希望他能做出实质性的改变。</p>
+<p>Hypixel中国服务器停服，意料之中。首先Hypixel团队一开始签订三年的合同就代表他们也是持观望态度。但Hypixel中国服务器外挂泛滥，玩家抱怨不断，自然氪金者数量下降，赚不着钱。企业的根本目标是获利，他们是经济组织，不是慈善组织，既然赚不到钱，那么关服很正常，阴谋论自然也站不住脚。</p>
+<p>网易续约我的世界，说明微软和MOJANG还是比较认可网易的，网易也在向好的方面发展，希望网易能带动我的世界走出流量低谷，实现“文艺复兴”。</p>
 ]]></content>
     </entry>
 </feed>
