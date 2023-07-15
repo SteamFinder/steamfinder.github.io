@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://ink2link.cn</id>
+    <title>墨·联</title>
+    <updated>2023-07-15T08:27:16.296Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://ink2link.cn"/>
+    <link rel="self" href="https://ink2link.cn/atom.xml"/>
+    <subtitle>以墨为链，联结万物</subtitle>
+    <logo>https://ink2link.cn/images/avatar.png</logo>
+    <icon>https://ink2link.cn/favicon.ico</icon>
+    <rights>All rights reserved 2023, 墨·联</rights>
+    <entry>
+        <title type="html"><![CDATA[序]]></title>
+        <id>https://ink2link.cn/post/0HhduKB40/</id>
+        <link href="https://ink2link.cn/post/0HhduKB40/">
+        </link>
+        <updated>2023-07-15T08:24:16.000Z</updated>
+    </entry>
+</feed>
